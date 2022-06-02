@@ -1,4 +1,5 @@
-Format: Introduction, Statement of Problem and Notation, Main Results and Commentary (including prior works), Proofs, more specific statements of the main results if they are techinical, then conclusion. Move the definitions of key concepts (neccesary to understanding the main results) to an earlier section. 
+Format: Introduction, Statement of Problem and Notation, Main Results and Commentary (including prior works), Proofs, more specific statements of the main results if 
+they are techinical, then conclusion. Move the definitions of key concepts (neccesary to understanding the main results) to an earlier section. 
 
 The "thus" at the end of the first paragraph of the introduction needs to be updated - not entirely accurate.
 
