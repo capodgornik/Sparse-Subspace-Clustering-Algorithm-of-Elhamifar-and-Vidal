@@ -1,1 +1,26 @@
+Format: Introduction, Statement of Problem and Notation, Main Results and Commentary (including prior works), Proofs, more specific statements of the main results if they are techinical, then conclusion. Move the definitions of key concepts (neccesary to understanding the main results) to an earlier section. 
+
+The "thus" at the end of the first paragraph of the introduction needs to be updated - not entirely accurate.
+
+Make sure all variables and parameters are in math mode. Note: use "\ell" instead of "l" for readability (I think these have all been fixed).
+
+Page 3: 
+  Top: say what \Gamma is and why it is used.
+  Middle: need to define "norms" somewhere - maybe in section for definition of key concepts/section for notation?
+  
+Equations need to be changed to displayed equations with numbers that can be referenced later.
+
+Page 4: need to find the Nasihatkon and Hartley article to add to references.
+
+Page 5: need to define linearly independent subspaces and "in general position".
+
+Page 7: 
+  section 3.2 needs to go before statement of results. 
+  Definition 3.4 is a typo on Elhamifar and Vidal's part. Need to retype -> look at "Minkowski" sum.
+
+Page 8: add some commentary about Theorem 3.8 and Theorom 3.9.
+
+Reference 2 appeared in an IEEE journal - change to this.
+
+
 
